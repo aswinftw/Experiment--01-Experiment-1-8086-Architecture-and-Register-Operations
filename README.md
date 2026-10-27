@@ -137,6 +137,11 @@ operand.
 Write an 8086 assembly language program to exchange the contents of two
 16-bit memory locations using registers.
 
+### CODE
+
+<img width="415" height="340" alt="image" src="https://github.com/user-attachments/assets/cfb4b865-5c70-470d-9174-daa8e0c2db96" />
+
+
 ### Algorithm
 
 1.  Load the first memory value into AX.
