@@ -114,6 +114,10 @@ from one register to another and store the result in memory.
 
 <img width="1150" height="628" alt="image" src="https://github.com/user-attachments/assets/dfeafb44-1d54-40d5-8b8c-3dfdbb0631e8" />
 
+### Result
+
+<img width="415" height="340" alt="image" src="https://github.com/user-attachments/assets/b426b02f-0b9d-4059-b26c-92f48b02e773" />
+
 
 ### Expected Result
 
