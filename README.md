@@ -112,27 +112,8 @@ from one register to another and store the result in memory.
 
 ### Assembly Program
 
-``` asm
-.MODEL SMALL
-.STACK 100H
+<img width="1150" height="628" alt="image" src="https://github.com/user-attachments/assets/dfeafb44-1d54-40d5-8b8c-3dfdbb0631e8" />
 
-.DATA
-    RESULT DW 0000H
-
-.CODE
-MAIN PROC
-    MOV AX, @DATA
-    MOV DS, AX
-
-    MOV AX, 1234H       ; Load 16-bit value into AX
-    MOV BX, AX          ; Copy AX into BX
-    MOV RESULT, BX      ; Store BX in memory
-
-    MOV AH, 4CH
-    INT 21H
-MAIN ENDP
-END MAIN
-```
 
 ### Expected Result
 
