@@ -141,10 +141,6 @@ operand.
 Write an 8086 assembly language program to exchange the contents of two
 16-bit memory locations using registers.
 
-### CODE
-
-<img width="415" height="340" alt="image" src="https://github.com/user-attachments/assets/cfb4b865-5c70-470d-9174-daa8e0c2db96" />
-
 
 ### Algorithm
 
@@ -156,7 +152,12 @@ Write an 8086 assembly language program to exchange the contents of two
 
 ### Assembly Program
 
- 
+<img width="1160" height="710" alt="image" src="https://github.com/user-attachments/assets/f3e19822-7598-4997-a136-a5360f2f7ace" /> 
+
+### Result
+
+<img width="426" height="436" alt="image" src="https://github.com/user-attachments/assets/73a8980f-f335-43b1-ae7b-da4ac0a85c8a" />
+
 
 ### Expected Result
 
